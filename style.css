@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 239, 218); 
+    
+    button {
+        background-color: #04AA6D; /* Green */
+        border: none;
+        color: white;
+        padding: 10px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 15px;
+        
+      }
+      .content {
+        max-width: 510px;
+        margin: auto;
+        padding: 10px;
+      }
+
+};
